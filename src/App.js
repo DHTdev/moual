@@ -1,24 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css";
+import { Home } from "./pages/Home";
+import "./config/i18n";
+import { Services } from "./pages/Services";
+import { Jobs } from "./pages/Jobs";
+import { ContactUs } from "./pages/ContactUs";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { FloatingWhatsApp } from "react-floating-whatsapp";
+import avatar from "./assets/Ellipse 6.png";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <FloatingWhatsApp
+        phoneNumber="+31651845217"
+        accountName="Modual"
+        statusMessage="Support is online"
+        avatar= {avatar}
+        allowEsc
+        autoOpen
+        autoClose
+      />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/services" element={<Services />} />
+        <Route path="/jobs" element={<Jobs />} />
+        <Route path="/contact" element={<ContactUs />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 

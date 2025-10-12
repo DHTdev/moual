@@ -1,0 +1,201 @@
+{
+  "nav": [
+    "Home",
+    "Diensten",
+    "Portfolio",
+    "Contact"
+  ],
+
+
+  "home": {
+    "header": {
+      "title": "Binnen 5 werkdagen jouw IT-team versterkt",
+      "subtitle": "Bij Modual Equans krijg je direct toegang tot gecertificeerde IT-specialisten die Nederlands en Engels spreken. Vanuit ons kantoor in Tanger (Marokko) werken wij synchroon met Nederland – tegen 25% lagere kosten"
+    },
+    "aboutUs": {
+      "title": "Over Modual Equans",
+      "text": "Modual Equans helpt Nederlandse bedrijven hun IT-capaciteit uit te breiden met hoogopgeleide professionals. Vanuit Marokko zorgen wij voor toegang tot ervaren en gecertificeerde IT’ers die niet alleen technisch sterk zijn, maar ook in het Nederlands communiceren. Dankzij onze ligging in Marokko combineren wij de voordelen van offshoring (kostenbesparing en flexibiliteit) met de betrouwbaarheid die Nederlandse bedrijven nodig hebben.",
+      "ourPromise": [
+        {
+          "title": "Lagere kosten, hogere kwaliteit",
+          "text": "Verminder ontwikkelingskosten zonder dat dit ten koste gaat van de prestaties. Lever eersteklas resultaten tegen een fractie van de gebruikelijke kosten."
+        },
+        {
+          "title": "Eenvoudig en schaalbaar",
+          "text": "Of u nu één ervaren ontwikkelaar of een heel team nodig hebt: ons flexibele model past zich aan de omvang en planning van uw project aan."
+        },
+        {
+          "title": "Continuïteit en zekerheid, zonder risico",
+          "text": "Geniet van stabiele, veilige en risicoloze samenwerking met voortdurende ondersteuning die ervoor zorgt dat uw bedrijf soepel blijft draaien"
+        }
+      ],
+      "whyUs": {
+        "title": "Waarom Modual Equans?",
+        "reasons": [
+        "Start binnen 5 werkdagen",
+        "25% kostenbesparing zonder in te leveren op kwaliteit",
+        "Nederlandse communicatie – helder en direct",
+        "Geen tijdsverschil – realtime samenwerking",
+        "Kwaliteitsgarantie – indien niet tevreden, vervanging binnen 30 dagen",
+        "Veilige contracten volgens Nederlandse normen"
+      ]}
+    },
+    "services": {
+      "title": "Wat we doen",
+      "subtitle": "Ontdek ons ​​volledige aanbod van expert digitale diensten",
+      "services": [
+        {
+          "title": "Softwareontwikkeling",
+          "text": "wij realiseren innovatieve webapplicaties, ontwikkelen stabiele backend-systemen, ontwerpen gebruiksvriendelijke frontend-interfaces en leveren schaalbare cloudoplossingen die meegroeien met uw bedrijf."
+        },
+        {
+          "title": "Mobiele Apps",
+          "text": "wij ontwikkelen hoogwaardige native iOS- en Android-apps, volledig op maat gemaakt om de unieke behoeften van uw bedrijf te ondersteunen. Onze mobiele applicaties combineren krachtige prestaties, gebruiksvriendelijke interfaces en betrouwbare cloudintegraties, zodat uw organisatie altijd verbonden blijft met klanten, medewerkers en partners."
+        },
+        {
+          "title": "Cybersecurity",
+          "text": "van audits en monitoring tot pentests en SOC-diensten, wij ondersteunen bedrijven met het opsporen van kwetsbaarheden, het proactief beheren van risico’s en het naleven van internationale beveiligingsstandaarden. Onze aanpak zorgt voor een veilige, schaalbare en toekomstbestendige digitale omgeving."
+        },
+        {
+          "title": "DevOps & Cloud",
+          "text": "wij ondersteunen organisaties met het opzetten en optimaliseren van moderne IT-infrastructuur, geautomatiseerde CI/CD-pipelines en slimme cloudoplossingen. Met onze DevOps-aanpak versnellen we softwareontwikkeling, verbeteren we stabiliteit en zorgen we voor schaalbare en betrouwbare systemen."
+        },
+        {
+          "title": "QA & Testautomatisering",
+          "text": "van functionele en regressietesten tot end-to-end testautomatisering en performance testing. Wij helpen organisaties hun software sneller, veiliger en foutloos te lanceren door middel van geavanceerde teststrategieën die zowel handmatig als geautomatiseerd zijn."
+        },
+        {
+          "title": "Dedicated Teams",
+          "text": "wij bouwen sterke ontwikkelteams op maat, bestaande uit fulltime developers die naadloos samenwerken met uw interne processen en tools. Of het nu gaat om web, mobiel of cloud, onze specialisten brengen expertise, flexibiliteit en schaalbaarheid naar uw organisatie."
+        }
+      ]
+    },
+    "howWeWork": {
+      "title": "Hoe wij werken",
+      "subtitle": "Van visie en ideeën naar groei en resultaten",
+      "steps": [
+        {
+          "title": "Invoering",
+          "text": "Vertel ons over je project, doelen en specifieke vereisten."
+        },
+        {
+          "title": "Selectie",
+          "text": "Wij stellen een team van gecertificeerde IT-specialisten samen die perfect"
+        },
+        {
+          "title": "Opstarten",
+          "text": "Uw specialist start binnen 5 werkdagen."
+        },
+        {
+          "title": "Begeleiding",
+          "text": "Wij bieden training, kantoorruimte en ondersteuning."
+        },
+        {
+          "title": "Continuïteit",
+          "text": "U behoudt de controle, wij garanderen de veiligheid."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Laten we vandaag nog uw idee realiseren!",
+      "subtitle": "In tegenstelling tot wat vaak wordt gedacht, is Lorem Ipsum niet zomaar willekeurige tekst. De oorsprong ervan ligt in een stuk klassieke Latijnse literatuur uit 45 v.Chr. en is dus meer dan 2000 jaar oud.",
+      "button": "Neem contact met ons op"
+    },
+    "footer": {
+      "contactUs": {
+        "title": "Neem contact met ons op",
+        "info": {
+          "address": "Adres: Keizersgracht 241, 1016 EA Amsterdam",
+          "email": "E-mail",
+          "phone": "Telefoon"
+        }
+      }
+    }
+  },
+  "Portfolio": {
+    "title": "portefeuille",
+    "subtitle": "Van visie naar ontwikkeling, van ontwikkeling naar impact",
+    "projects": [
+      {
+        "image": "/images/portfolio-1.jpg",
+        "name": "Webdesign en -ontwikkeling",
+        "description": "toen een onbekende drukker een proefdruk nam en deze door elkaar haalde om een ​​type-specimenboek te maken"
+      },
+      {
+        "image": "/images/portfolio-2.jpg",
+        "name": "DevOps en Cloud",
+        "description": "toen een onbekende drukker een proefdruk nam en deze door elkaar haalde om een ​​type-specimenboek te maken."
+      },
+      {
+        "image": "/images/portfolio-3.jpg",
+        "name": "Softwarearchitectuur",
+        "description": "toen een onbekende drukker een proefdruk nam en deze door elkaar haalde om een ​​type-specimenboek te maken."
+      },
+      {
+        "image": "/images/portfolio-3.jpg",
+        "name": "Cyberbeveiliging",
+        "description": "toen een onbekende drukker een proefdruk nam en deze door elkaar haalde om een ​​type-specimenboek te maken"
+      }
+    ]
+  },
+  "Services": {
+    "title": "Onze Diensten",
+    "subtitle": "Wij bieden flexibele oplossingen, afgestemd op jouw organisatie",
+    "services": [
+      {
+        "title": "Softwareontwikkeling",
+        "text": "wij realiseren innovatieve webapplicaties, ontwikkelen stabiele backend-systemen, ontwerpen gebruiksvriendelijke frontend-interfaces en leveren schaalbare cloudoplossingen die meegroeien met uw bedrijf."
+      },
+      {
+        "title": "Mobiele Apps",
+        "text": "wij ontwikkelen hoogwaardige native iOS- en Android-apps, volledig op maat gemaakt om de unieke behoeften van uw bedrijf te ondersteunen. Onze mobiele applicaties combineren krachtige prestaties, gebruiksvriendelijke interfaces en betrouwbare cloudintegraties, zodat uw organisatie altijd verbonden blijft met klanten, medewerkers en partners."
+      },
+      {
+        "title": "Cybersecurity",
+        "text": "van audits en monitoring tot pentests en SOC-diensten, wij ondersteunen bedrijven met het opsporen van kwetsbaarheden, het proactief beheren van risico’s en het naleven van internationale beveiligingsstandaarden. Onze aanpak zorgt voor een veilige, schaalbare en toekomstbestendige digitale omgeving."
+      },
+      {
+        "title": "DevOps & Cloud",
+        "text": "wij ondersteunen organisaties met het opzetten en optimaliseren van moderne IT-infrastructuur, geautomatiseerde CI/CD-pipelines en slimme cloudoplossingen. Met onze DevOps-aanpak versnellen we softwareontwikkeling, verbeteren we stabiliteit en zorgen we voor schaalbare en betrouwbare systemen."
+      },
+      {
+        "title": "QA & Testautomatisering",
+        "text": "van functionele en regressietesten tot end-to-end testautomatisering en performance testing. Wij helpen organisaties hun software sneller, veiliger en foutloos te lanceren door middel van geavanceerde teststrategieën die zowel handmatig als geautomatiseerd zijn."
+      },
+      {
+        "title": "Dedicated Teams",
+        "text": "wij bouwen sterke ontwikkelteams op maat, bestaande uit fulltime developers die naadloos samenwerken met uw interne processen en tools. Of het nu gaat om web, mobiel of cloud, onze specialisten brengen expertise, flexibiliteit en schaalbaarheid naar uw organisatie."
+      }
+    ]
+  },
+  "Contact Us": {
+    "title": "Neem contact met ons op",
+    "subtitle": "Laten we het over jouw idee hebben.",
+    "form": {
+      "name": "Bedrijfsnaam",
+      "email": "bedrijfse-mailadres",
+      "phone": "Telefoonnummer",
+      "sector": "Sector",
+      "message": "Bericht"
+    },
+    "contactInfo": {
+      "contact": [
+        {
+          "type": "Onze locatie",
+          "value": "Keizersgracht 241, 1016 EA Amsterdam"
+        },
+        {
+          "type": "Stuur ons een e-mail op",
+          "value": "zHt4w@example.com"
+        },
+        {
+          "type": "Telefoonnummer",
+          "value": "0612345678"
+        }
+      ],
+      "socialMedia": {
+        "followUs": "Volg ons"
+      }
+    }
+  }
+}

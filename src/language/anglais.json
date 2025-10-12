@@ -1,0 +1,203 @@
+{
+    "nav": [
+        "Home",
+        "Services",
+        "Jobs",
+        "Contact Us"
+    ],
+    "home": {
+        "header": {
+            "title": "Your IT Team Strengthened Within 5 Business Days",
+            "subtitle": "At Modual Equans, you get direct access to certified IT specialists who speak Dutch and English. From our office in Tangier (Morocco), we work in sync with the Netherlands—at 25% lower costs."
+        },
+        "aboutUs": {
+            "title": "About Modual Equans",
+            "text": "The Dutch job market is tight: developers are scarce, recruitment is expensive, and projects are often delayed. Modual Equans offers the solution. We provide IT specialists from Morocco who perfectly match your needs. Thanks to our Dutch contracts, quality guarantees, and fast start, you can work with confidence and flexibility.",
+            "ourPromise": [
+                {
+                    "title": "Lower Costs, Higher Quality",
+                    "text": "Reduce development costs without compromising on performance. Deliver first-class results at a fraction of the usual cost."
+                },
+                {
+                    "title": "Simple and Scalable",
+                    "text": "Whether you need one experienced developer or an entire team, our flexible model adapts to the size and timeline of your project."
+                },
+                {
+                    "title": "Continuity and Security, Without Risk",
+                    "text": "Enjoy stable, secure, and risk-free collaboration with continuous support that ensures your business keeps running smoothly."
+                }
+            ],
+            "whyUs": {
+                "title": "Why Choose Us",
+                "reasons": [
+                    "Start within 5 business days",
+                    "25% cost savings without sacrificing quality",
+                    "Dutch communication – clear and direct",
+                    "No time difference – real-time collaboration",
+                    "Quality guarantee – if not satisfied, replacement within 30 days",
+                    "Secure contracts according to Dutch standards"
+                ]
+            }
+        },
+        "services": {
+            "title": "What We Do",
+            "subtitle": "Discover our full range of expert digital services",
+            "services": [
+                {
+                    "title": "Software Development",
+                    "text": "We create innovative web applications, develop stable backend systems, design user-friendly frontend interfaces, and deliver scalable cloud solutions that grow with your business."
+                },
+                {
+                    "title": "Mobile Apps",
+                    "text": "We develop high-quality native iOS and Android apps, fully customized to support the unique needs of your business. Our mobile applications combine powerful performance, user-friendly interfaces, and reliable cloud integrations, ensuring your organization remains connected with customers, employees, and partners."
+                },
+                {
+                    "title": "Cybersecurity",
+                    "text": "From audits and monitoring to pentests and SOC services, we support companies in detecting vulnerabilities, proactively managing risks, and complying with international security standards. Our approach ensures a secure, scalable, and future-proof digital environment."
+                },
+                {
+                    "title": "DevOps & Cloud",
+                    "text": "We support organizations in setting up and optimizing modern IT infrastructure, automated CI/CD pipelines, and smart cloud solutions. With our DevOps approach, we accelerate software development, improve stability, and ensure scalable and reliable systems."
+                },
+                {
+                    "title": "QA & Test Automation",
+                    "text": "From functional and regression testing to end-to-end test automation and performance testing, we help organizations launch their software faster, more securely, and flawlessly through advanced testing strategies that are both manual and automated."
+                },
+                {
+                    "title": "Dedicated Teams",
+                    "text": "We build strong, custom development teams composed of full-time developers who seamlessly collaborate with your internal processes and tools. Whether it's for web, mobile, or cloud, our specialists bring expertise, flexibility, and scalability to your organization."
+                }
+            ]
+        },
+        "howWeWork": {
+            "title": "How We Work",
+            "subtitle": "From vision and ideas to growth and results",
+            "steps": [
+                {
+                    "title": "Introduction",
+                    "text": "Tell us about your project, goals, and specific requirements."
+                },
+                {
+                    "title": "Selection",
+                    "text": "We put together a team of certified IT specialists who are a perfect match."
+                },
+                {
+                    "title": "Onboarding",
+                    "text": "Your specialist starts within 5 business days."
+                },
+                {
+                    "title": "Guidance",
+                    "text": "We provide training, office space, and support."
+                },
+                {
+                    "title": "Continuity",
+                    "text": "You maintain control, we guarantee security."
+                }
+            ]
+        },
+        "contact": {
+            "title": "Let's bring your idea to life today!",
+            "subtitle": "Contrary to popular belief, Lorem Ipsum is not simply random text. Its roots are in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+            "button": "Contact us"
+        },
+        "footer": {
+            "contactUs": {
+                "title": "Contact Us",
+                "info": {
+                    "address": "Address: Keizersgracht 241, 1016 EA Amsterdam",
+                    "email": "Email",
+                    "phone": "Phone"
+                }
+            }
+        }
+    },
+    "Careers": {
+        "title": "Join Our Growing Team",
+        "subtitle": "Join our team of problem-solvers. If you’ve got the skills and the drive, we’ve got a place for you",
+        "jobsOpportunities": {
+            "title": "Open Positions",
+            "openPositions": [
+                {
+                    "JobTitle": "Web Designer",
+                    "location": "Tangier, Morocco",
+                    "description": "when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+                },
+                {
+                    "JobTitle": "Web Designer",
+                    "location": "Tangier, Morocco",
+                    "description": "when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+                },
+                {
+                    "JobTitle": "Web Designer",
+                    "location": "Tangier, Morocco",
+                    "description": "when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+                },
+                {
+                    "JobTitle": "Web Designer",
+                    "location": "Tangier, Morocco",
+                    "description": "when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+                }
+            ]
+        }
+    },
+    "Services": {
+        "title": "Our Services",
+        "subtitle": "We offer flexible solutions, tailored to your organization",
+        "services": [
+            {
+                "title": "Software Development",
+                "text": "We create innovative web applications, develop stable backend systems, design user-friendly frontend interfaces, and deliver scalable cloud solutions that grow with your business."
+            },
+            {
+                "title": "Mobile Apps",
+                "text": "We develop high-quality native iOS and Android apps, fully customized to support the unique needs of your business. Our mobile applications combine powerful performance, user-friendly interfaces, and reliable cloud integrations, ensuring your organization remains connected with customers, employees, and partners."
+            },
+            {
+                "title": "Cybersecurity",
+                "text": "From audits and monitoring to pentests and SOC services, we support companies in detecting vulnerabilities, proactively managing risks, and complying with international security standards. Our approach ensures a secure, scalable, and future-proof digital environment."
+            },
+            {
+                "title": "DevOps & Cloud",
+                "text": "We support organizations in setting up and optimizing modern IT infrastructure, automated CI/CD pipelines, and smart cloud solutions. With our DevOps approach, we accelerate software development, improve stability, and ensure scalable and reliable systems."
+            },
+            {
+                "title": "QA & Test Automation",
+                "text": "From functional and regression testing to end-to-end test automation and performance testing, we help organizations launch their software faster, more securely, and flawlessly through advanced testing strategies that are both manual and automated."
+            },
+            {
+                "title": "Dedicated Teams",
+                "text": "We build strong, custom development teams composed of full-time developers who seamlessly collaborate with your internal processes and tools. Whether it's for web, mobile, or cloud, our specialists bring expertise, flexibility, and scalability to your organization."
+            }
+        ]
+    },
+    "Contact Us": {
+        "title": "Contact Us",
+        "subtitle": "Let's talk about your idea.",
+        "form": {
+            "name": "Company Name",
+            "email": "Company Email",
+            "phone": "Phone Number",
+            "sector": "Sector",
+            "message": "Message"
+        },
+        "contactInfo": {
+            "contact": [
+                {
+                    "type": "Our location",
+                    "value": "Keizersgracht 241, 1016 EA Amsterdam"
+                },
+                {
+                    "type": "Send us an email at",
+                    "value": "zHt4w@example.com"
+                },
+                {
+                    "type": "Phone number",
+                    "value": "+31651845217"
+                }
+            ],
+            "socialMedia": {
+                "followUs": "Follow us"
+            }
+        }
+    }
+}
