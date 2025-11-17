@@ -21,7 +21,7 @@ export const Footer = () => {
                 3 RUE BOUTRIKA 3eme ETAGE N6 MESNANA
               </li>
               <li className="paragraph">info@modual.tech</li>
-              <li className="paragraph">+31651845217</li>
+              <li className="paragraph">+212 607-654550</li>
             </ul>
           </div>
           <div className="usefulLink">

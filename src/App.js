@@ -11,7 +11,7 @@ function App() {
   return (
     <BrowserRouter>
       <FloatingWhatsApp
-        phoneNumber="+31651845217"
+        phoneNumber="+212 607-654550"
         accountName="Modual"
         statusMessage="Support is online"
         avatar= {avatar}

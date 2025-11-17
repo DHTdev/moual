@@ -158,7 +158,7 @@ export const ContactUs = () => {
           <div className="contactInfo">
             <h2>Contact Information</h2>
             <p>Email: info@modual.tech</p>
-            <p>Phone: +31651845217</p>
+            <p>Phone: +212 607-654550</p>
             <p>Address: 3 RUE BOUTRIKA 3eme ETAGE N6 MESNANA</p>
             <p>Business Hours: Mon-Fri 9am - 6pm</p>
             <p>Follow Us:</p>
